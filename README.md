@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samshub004
+- 👋 Hi, I’m Sam
 - 👀 I’m interested in Robotic engineering, app development, web development and game dev 
 - 🌱 I’m currently learning python, html,c and 3D design 
 - 💞️ I’m looking to collaborate on anything that peeks my interest
