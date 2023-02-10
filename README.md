@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samshub004
-- 👀 I’m interested in Robotic engineering, app development, web development and software engineering 
-- 🌱 I’m currently learning javascript, html and 3D design 
+- 👀 I’m interested in Robotic engineering, app development, web development and game dev 
+- 🌱 I’m currently learning python, html,c and 3D design 
 - 💞️ I’m looking to collaborate on anything that peeks my interest
 - 📫 How to reach me chevaliersamaiele04@gmail.com 
 
